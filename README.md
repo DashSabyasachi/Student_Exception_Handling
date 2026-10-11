@@ -1,4 +1,4 @@
-# Student Exception Handling - Day 10
+80808080# Student Exception Handling - Day 10
 
 Spring Boot project demonstrating:
 - Student CRUD
@@ -11,8 +11,8 @@ Spring Boot project demonstrating:
 - 404, 400 and 500 handling
 
 Run the application and test:
-POST   http://localhost:8084/students
-GET    http://localhost:8084/students
-GET    http://localhost:8084/students/1
-PUT    http://localhost:8084/students/1
-DELETE http://localhost:8084/students/1
+POST   http://localhost:8080/students
+GET    http://localhost:8080/students
+GET    http://localhost:8080/students/1
+PUT    http://localhost:8080/students/1
+DELETE http://localhost:8080/students/1
